@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftHouse", "SoftHouse\SoftHouse.csproj", "{DC33980C-4A51-44D4-9A8C-7FCE7137F737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserStorage", "UserStorage\UserStorage.csproj", "{2A973DAA-DA59-4602-B25E-87529AA395B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC33980C-4A51-44D4-9A8C-7FCE7137F737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC33980C-4A51-44D4-9A8C-7FCE7137F737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC33980C-4A51-44D4-9A8C-7FCE7137F737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC33980C-4A51-44D4-9A8C-7FCE7137F737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A973DAA-DA59-4602-B25E-87529AA395B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A973DAA-DA59-4602-B25E-87529AA395B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A973DAA-DA59-4602-B25E-87529AA395B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A973DAA-DA59-4602-B25E-87529AA395B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F3D4FE-049B-4FC3-9E95-86EF4AF639D1}
+	EndGlobalSection
+EndGlobal

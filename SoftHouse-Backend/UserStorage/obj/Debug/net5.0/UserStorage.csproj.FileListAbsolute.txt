@@ -1,0 +1,12 @@
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\bin\Debug\net5.0\UserStorage.deps.json
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\bin\Debug\net5.0\UserStorage.dll
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\bin\Debug\net5.0\ref\UserStorage.dll
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\bin\Debug\net5.0\UserStorage.pdb
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.csprojAssemblyReference.cache
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.AssemblyInfoInputs.cache
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.AssemblyInfo.cs
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.csproj.CoreCompileInputs.cache
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.dll
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\ref\UserStorage.dll
+C:\Users\Mirza\source\repos\SoftHouse\UserStorage\obj\Debug\net5.0\UserStorage.pdb
